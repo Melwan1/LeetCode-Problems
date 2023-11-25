@@ -3,7 +3,7 @@
  */
 
 #include <stddef.h>
-#include <stdio.h>
+#include <stdlib.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     for (int index = 0; index < numsSize; index++)
