@@ -8,7 +8,7 @@ classDef complete stroke-width:2px,stroke:#050,fill:#050
 two_sum[Two Sum]:::complete
 three_sum[Three Sum]:::medium
 two_sum_ii[Two Sum II - Input Array Is Sorted]:::medium
-subarray_sum_equals_k[Subarray Sum Equals K]::medium
+subarray_sum_equals_k[Subarray Sum Equals K]:::medium
 two_sum_iv[Two Sum IV - Input is a BST]:::easy
 max_number_of_k_sum_pairs[K-Sum Pairs]:::medium
 count_good_meals[Count Good Meals]:::medium
