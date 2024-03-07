@@ -6,7 +6,7 @@ classDef hard stroke-width:2px,stroke:#f00
 classDef complete stroke-width:2px,stroke:#050,fill:#050
 
 two_sum[Two Sum]:::complete
-click two_sum https://leetcode.com/problems/two-sum
+click two_sum https://leetcode.com/problems/two-sum/description
 three_sum[Three Sum]:::medium
 two_sum_ii[Two Sum II - Input Array Is Sorted]:::medium
 subarray_sum_equals_k[Subarray Sum Equals K]:::medium
