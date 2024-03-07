@@ -8,6 +8,7 @@ classDef complete stroke-width:2px,stroke:#050,fill:#050
 check_distances_between_same_letters[Distances Between Same Letters]:::easy
 count_good_meals[Count Good Meals]:::medium
 count_good_triplets[Count Good Triplets]:::easy
+count_good_triplets_in_an_array[Count Good Triplets in an Array]:::hard
 count_increasing_quadruplets[Count Increasing Quadruplets]:::hard
 count_number_of_pairs_with_absolute_difference_k[Absolute Difference Pair Count]:::easy
 count_pairs_whose_sum_is_less_than_target[Pairs Sum Less than Target]:::easy
@@ -17,8 +18,9 @@ find_subarrays_with_equal_sum[Equal Sum Subarrays]:::easy
 first_letter_to_appear_twice[First Letter to Appear Twice]:::easy
 four_sum[4Sum]:::medium
 four_sum_ii[4Sum II]:::medium
-increasing_triplet_sequence[Increasing Triplet Sequence]:::medium
+increasing_triplet_subsequence[Increasing Triplet Sequence]:::medium
 largest_positive_integer_that_exists_with_its_negative[Largest Positive to Match Negative]:::easy
+longest_increasing_subsequence[Longest Increasing Subsequence]:::medium
 max_number_of_k_sum_pairs[K-Sum Pairs]:::medium
 minimum_sum_of_mountain_triplets_i[Minimum Sum of Mountain Triplets I]:::easy
 minimum_sum_of_mountain_triplets_ii[Minimum Sum of Mountain Triplets II]:::medium 
@@ -63,4 +65,6 @@ four_sum --> count_special_quadruplets
 count_special_quadruplets --> increasing_triplet_subsequence
 count_special_quadruplets --> count_good_triplets
 count_special_quadruplets --> count_increasing_quadruplets
+increasing_triplet_subsequence --> longest_increasing_subsequence
+increasing_triplet_subsequence --> count_good_triplets_in_an_array
 ```
